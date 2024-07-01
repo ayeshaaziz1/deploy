@@ -1,0 +1,171 @@
+#nameofr{
+    color: rgb(238, 223, 188);
+    text-align: center;
+    background-color: rgb(24, 16, 1);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    letter-spacing: 18px;
+    font-size: 60px;
+    border: 2px rgb(238, 223, 188) solid;
+}
+
+
+#menu{
+    color: rgb(214, 205, 179);
+    text-align: center;
+    background-color: rgb(27, 18, 3);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    letter-spacing: 15px;
+    font-size: 50px;
+}
+
+  #noodles{
+    height: 100px;
+    width:100px;
+    border: 3px solid rgb(100, 68, 9);
+    background-color: rgb(247, 230, 205);
+    font-family: Oleo Script;
+    display:inline;
+    font-size: 35px;
+
+    /*text-decoration: rgb(100, 68, 9) underline; */
+}
+div{
+    color: rgb(51, 26, 2);
+    font-family: Great Vibes;
+    font-size: 15px;
+    line-height: 1.5;
+    
+
+}
+
+h3{
+    font-size: 43px;
+    line-height: 2px;
+    letter-spacing: 5px;
+    display: inline;
+    word-spacing: 200px;
+    
+    
+}
+#name{
+    font-weight: 900;
+    
+    font-size: 35px;
+
+}
+#price{
+    font-weight: 900;
+    font-size: 35px;
+    word-spacing: 100px;
+
+    
+}
+ #breads{
+    height:100px;
+    width:100px;
+    border: 2px solid rgb(100, 68, 9);
+    background-color: rgb(247, 230, 205);
+    font-family: Oleo Script;
+    display:inline;
+    font-size: 35px;
+    
+    /*text-decoration: rgb(100, 68, 9) underline; */
+}
+#chicken{
+    height:100px;
+    width:100px;
+    border: 2px solid rgb(100, 68, 9);
+    background-color: rgb(247, 230, 205);
+    font-family: Oleo Script;
+    display:inline;
+    font-size: 35px;
+    
+    /*text-decoration: rgb(100, 68, 9) underline; */
+}
+#breads{
+    height:100px;
+    width:100px;
+    border: 2px solid rgb(100, 68, 9);
+    background-color: rgb(247, 230, 205);
+    font-family: Oleo Script;
+    display:inline;
+    font-size: 35px;
+    
+    /*text-detion: rgb(100, 68, 9) underline; */
+}
+#biryani{
+    height:100px;
+    width:100px;
+    border: 2px solid rgb(100, 68, 9);
+    background-color: rgb(247, 230, 205);
+    font-family: Oleo Script;
+    display:inline;
+    font-size: 35px;
+    
+    /*text-decoration: rgb(100, 68, 9) underline; */
+}
+
+#desert{
+
+        height:100px;
+        width:100px;
+        border: 2px solid rgb(100, 68, 9);
+        background-color: rgb(247, 230, 205);
+        font-family: Oleo Script;
+        display:inline;
+        font-size: 35px;
+        
+        /*text-decoration: rgb(100, 68, 9) underline; */
+    
+    
+}
+#form{
+    font-size: 30px;
+    font-weight: 900px;
+    color: rgb(7, 6, 6);
+}
+#username{
+    font-size: 26px;
+}
+#emailaddress{
+    font-size: 26px;
+}
+#number{
+    font-size: 26px;
+}
+#submit{
+    font-size: 22px;
+    height: 30px;
+    width: 80px ;
+
+}
+#contact{
+    text-decoration: rgb(51, 26, 2) underline;
+    font-size: 50px;
+    text-align: centre;
+}
+
+.pay{
+    font-size: 23px;
+}
+*{
+    background-color: rgb(214, 205, 190)
+}
+.img1{
+    
+    float:right;
+    padding-right: 500px;
+    image-rendering: crisp-edges;
+}
+.checkbox{
+    margin: 4px 0 0;
+    line-height: normal;
+    width: 40px;
+    height:25px;
+}
+#middle{
+    font-size: 80px;
+    font-family: oswald;
+    text-align: center;
+    
+}
